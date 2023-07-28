@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for Front-End Developer roles. <br>🌱 I’m currently learning front-end frameworks like React.js and Next.js.<br>💬 Ask me about React JS, Redux, JavaScript, Tailwind CSS<br>⚡ Fun fact - I'm lazy but smart.
+🔭 I’m currently looking for Front-End Developer roles. <br>🌱 I’m currently learning front-end frameworks like React.js and Next.js.<br>💬 Ask me about React JS, Redux, JavaScript, Tailwind CSS<br>
 
 
 ## 🌐 Socials:
